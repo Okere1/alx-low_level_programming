@@ -1,3 +1,8 @@
+/*
+ * File: 100-print_comb3.c
+ * Auth: Okere I Promise
+ */
+
 #include <stdio.h>
 /**
  * main - Prints all possible combinations of three different digits, *     in ascending order, seperated by a comma followed by a space.
