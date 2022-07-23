@@ -1,1 +1,1 @@
-This is a readme for static libraries
+Static library Task Readme file
