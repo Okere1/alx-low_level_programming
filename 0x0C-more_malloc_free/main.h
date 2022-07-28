@@ -1,11 +1,11 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef MAIN_H
+#define MAIN_H
 
 /**
- * File: holberton.h
- * Auth: Brennan D Baraban
+ * File: main.h
+ * Auth: Okere Promise
  * Desc: Header file containing prototypes for all functions
- *       used in the 0x0B-more_malloc_free directory.
+ *       used in the 0x0C-more_malloc_free directory.
  */
 
 int _putchar(char c);
