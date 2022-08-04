@@ -3,9 +3,9 @@
 
 /*
  * File: variadic_functions.h
- * Auth: Brennan D Baraban
+ * Auth: Okere Promise
  * Desc: Header file containing prototypes for all functions
- *       used in the 0x0F-variadic_functions directory.
+ *       used in the 0x10C-variadic_functions directory.
  */
 
 #include <stdarg.h>
