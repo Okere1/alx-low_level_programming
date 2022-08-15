@@ -1,6 +1,6 @@
 /*
  * File: 7-get_nodeint.c
- * Auth: Brennan D Baraban
+ * Auth: Okere Promise
  */
 
 #include "lists.h"
