@@ -1,6 +1,6 @@
 /*
  * File: 5-free_listint2.c
- * Auth: Brennan D Baraban
+ * Auth: Okere Promise
  */
 
 #include "lists.h"
