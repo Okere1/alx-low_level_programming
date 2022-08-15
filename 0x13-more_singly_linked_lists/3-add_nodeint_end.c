@@ -1,6 +1,6 @@
 /*
  * File: 3-add_nodeint_end.c
- * Auth: Brennan D Baraban
+ * Auth: Okere Promise
  */
 
 #include "lists.h"
