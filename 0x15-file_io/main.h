@@ -1,11 +1,11 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef MAIN_H
+#define MAIN
 
 /*
- * File: holberton.h
- * Auth: Brennan D Baraban
+ * File: main
+ * Auth: Okere Promise
  * Desc: Header file containing prototypes for all functions
- *       written in the 0x14-file_io directory.
+ *       written in the 0x15file_io directory.
  */
 
 #include <sys/types.h>
