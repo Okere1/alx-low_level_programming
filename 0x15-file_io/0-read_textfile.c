@@ -1,9 +1,9 @@
 /*
  * File: 0-read_textfile.c
- * Auth: Brennan D Baraban
+ * Auth: Okere Promise
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
